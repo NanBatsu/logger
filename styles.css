@@ -3,6 +3,7 @@
 }
 .logContainer {
     font-family: 'Inconsolata', monospace;
+    text-shadow:1px 1px 10px aqua, 1px 1px 10px #ccc;
     color: aqua;
 }
 #inputKey {
@@ -15,6 +16,7 @@
 #ButtonAnalyze{
                 font-family: 'Inconsolata', monospace;
     color: aqua;
+
     background-color: RGB(0,0,0,0);
 
 }
