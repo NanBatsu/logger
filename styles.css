@@ -1,0 +1,20 @@
+.textLog{
+    margin-top:50vh;
+}
+.logContainer {
+    font-family: 'Inconsolata', monospace;
+    color: aqua;
+}
+#inputKey {
+    font-family: 'Inconsolata', monospace;
+    color: aqua;
+}
+#fKey{
+    background-color:aqua;
+}
+#ButtonAnalyze{
+                font-family: 'Inconsolata', monospace;
+    color: aqua;
+    background-color: RGB(0,0,0,0);
+
+}

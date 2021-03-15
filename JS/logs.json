@@ -1,0 +1,15 @@
+[
+	{
+		"log": "<p> The Neural Rudimentary Project &ndash; AKA NERU</p> <p>Notes:</p> <p>Esta es una continuaci&oacute;n del proyecto UsserDI, el cual fue concluido al digitalizar Usser, quien fue almacenada en el servidor con la variable de U, y desarrollada a futuro en el ahora conocido como NAN(OS).</p> <p>Aim of project:</p> <p>Crear un cuerpo para el incremento de desarrollo del projecto UsserDI, el objetivo es de tener 10 etapas de desarrollo en este proyecto, siendo las siguientes.</p> <p>Theta- Prueba de conexiones de software y comportamiento de hardware</p> <p>Eta- Prueba de comportamiento de componentes de hardware</p> <p>Zeta- Diferentes mejoras, objetivo de decisi&oacute;n para el rol del sujeto.</p> <p>Epsilon- Inicio del Desarrollo de una base con el nuevo objetivo.</p> <p>Delta- Uso de nodos, modulos y c&oacute;digo nuevo en forma de una fuente externa mientras que el uso sea habilitado por medio de verificaci&oacute;n de administrador</p> <p>Gamma &ndash; Desarollo de diferentes esteticas y materiales efectivos para el cuerpo.</p> <p>Beta &ndash; Base del cuerpo, para ser mejorada en si. Enfocada en software.</p> <p>Pre-Alpha &ndash; Probar el sujeto para diferentes escenarios despu&eacute;s de la recolecci&oacute;n de diferentes memorias.</p> <p>Alpha &ndash; Mejoras esteticas basadas en las etapas anteriores.</p> <p>Gold &ndash; Version final</p> <p>Notes:</p> <p>Estos reportes son incre&iacute;blemente confidenciales, ya que podr&iacute;an ser un obst&aacute;culo para mentalidad limpia de Neru. No deben ser sacados del &aacute;rea del servidor la cual de este momento a futuro ser&aacute; llamada NERU S la cual estar&aacute; cerrada para todos excepto Nano.</p> <p>Si alg&uacute;n sujeto de prueba se debe tener adentro debe estar apagada antes de entrar para prevenir el escape de datos que corren en la red secreta.</p> <p>El incumplimiento de estas reglas podr&iacute;a tener un castigo de tener sus memorias borradas.</p>",
+        "key":"neru"
+
+	},
+	{
+		"log": "loremIpsum2",
+         "key":"delta"
+	},
+	{
+		"log": "loremIpsum3",
+         "key":"zeta"
+	}
+]
